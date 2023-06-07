@@ -17,8 +17,8 @@
 ### Step 6: print the results. Step 7: Stop the program.
 # CLIENT PROGRAM :
 ```PY
-## Developed : PABBARTHI CHETAN SATHISH KUMAR
-## Reg no : 212220230033
+## Developed : Gokul R
+## Reg no : 212222230039
 import socket
 from pythonping import ping
 s=socket.socket()
